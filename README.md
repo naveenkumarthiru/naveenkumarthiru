@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm NAVEENKUMAR T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumarthiru" alt="naveenkumarthiru" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar" alt="naveenkumar" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **tnaveenkumar805@gmail.com**
 
